@@ -1,2 +1,3 @@
 # code-for-coffee.github.io
-My awesome webpage is reallllllly awesome
+
+Used in the following workshop: https://github.com/ga-chicago/HTML-CSS-Basics/
